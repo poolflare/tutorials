@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+*.out
+*.pyc
+*.dylib
+*.dSYM/
+
+*.swp
+*.swo
+*.un~
+*.DS_Store
